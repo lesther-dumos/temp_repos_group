@@ -2,7 +2,7 @@
 
 #### **Affiliation:** INFO-201: Technical Foundations of Informatics - The Information School - University of Washington
 #### **Authors:** Lesther Dumosmog || Amy Oguejiofor || Nuria Abas Ibrahim
-###  **Emails**   ldumos@uw.edu    || amyo6@uw.edu   || nuriai2@uw.edu
+####  **Emails**   ldumos@uw.edu    || amyo6@uw.edu   || nuriai2@uw.edu
 #### **Date:**  Autumn 2022
 #### **Project:** credit_class
 
