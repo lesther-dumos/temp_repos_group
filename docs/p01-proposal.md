@@ -58,6 +58,7 @@ percent), Whites (3.1 percent), Blacks (5.8 percent), and Asians (2.5 percent) s
 
 ## **The Dataset**
 
+The dataset details a lot of information related to finance specifically credit scores. It gives data related to credit score, SSN, occupation, individual base salaries and number of bank accounts a person has. All of this data is helpful to our project because it helps us see how credit scores differ based on socioeconomic status and one way to determine that is through knowing occupation.
 
 ## **Limitations**
 One thing that the data table fail to acomodate is the area of living. As some areas have low or high financial needs of living, it can have an effect on the statistics and general making desicions in
