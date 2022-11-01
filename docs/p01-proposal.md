@@ -21,7 +21,7 @@
 * Financial Resources
 
 ## **Introduction**
-In the alarming growth in the expenses of resources becoming expensive, we have decided to report a project based on the current economic situation. The limited resources being a concern after the hit of Covid-19 has created a global surge in prices. This was due to the result of political desicions and supply and demand of resources. Due to the current outcome, we have decide to create a project that reflects in the current trends and cultures in retrospective of the high living standards. The information provided in this report comes from U.S. Bureau of Labor Statistics as well as [kraggle](https://www.kaggle.com/datasets/clkmuhammed/creditscoreclassification?resource=download) showcasing the information in the current work force. In addition of the information, we are hoping to showcase the changes and current work flow to the general public.
+In the alarming growth in the expenses of resources becoming expensive, we have decided to report a project based on the current economic situation. The limited resources being a concern after the hit of Covid-19 has created a global surge in prices. This was due to the result of political decisions and supply and demand of resources. Due to the current outcome, we have decide to create a project that reflects in the current trends and cultures in retrospective of the high living standards. The information provided in this report comes from U.S. Bureau of Labor Statistics as well as [kraggle](https://www.kaggle.com/datasets/clkmuhammed/creditscoreclassification?resource=download) showcasing the information in the current work force. In addition of the information, we are hoping to showcase the changes and current work flow to the general public.
 
 
 ## **Problem Domain**
@@ -53,13 +53,13 @@ Included that production of meats in Asia fell 9% in 2020. This lead to the decl
 ## **Research Questions**
 
 1) How has the the workforce in groups of minority been impacted?
-<br> How does other groups compared in losses compared to mainstream groups? What resources were given to accommodate the standard of equity. It will give a visualization in which groups are being affected the most. 
+<br> How does other groups compared in losses compared to mainstream groups? What resources were given to accommodate the standard of equity. It will give a visualization in which groups are being affected the most.
 
 2) What are the current trends/culture of each standing social classes?
 <br>In addition, what are the characteristics of other groups. What assets have increased and if they have taken a toll in their own finances. What they have earned/lost or maintained throughout the economy collapse. We are hoping to see which traits are involved with each social economic standing.
 
 3) How did Covid-19 affected finance in the long term?
-<br> Current resources such as gases and food have continued to rise and maintained at high levels. How has the global economy been affected in the presences of high demand and shortage of supplies. Along with real estate becoming expensive averaging nearly a 20% increase in rent within the US. 
+<br> Current resources such as gases and food have continued to rise and maintained at high levels. How has the global economy been affected in the presences of high demand and shortage of supplies. Along with real estate becoming expensive averaging nearly a 20% increase in rent within the US.
 
 ## **The Dataset**
 
@@ -68,11 +68,11 @@ The dataset details a lot of information related to finance specifically credit 
 
 <div align="center">
 
-![Social Class Data Table](images/datatable.png)
+![credit score classification clean data](images/DatasetTable.png)
 </div>
 <br>
 
-Data Source: 
+Data Source:
 [Kraggle](https://www.kaggle.com/datasets/clkmuhammed/creditscoreclassification?resource=download)
 <br>
 
@@ -82,26 +82,16 @@ The data was collected by Rohan Paris, a software developer at Cognizant. The da
 
 ## **Expected implications**
 
-![credit score classification clean data](images/DatasetTable.png)
-
-
 ## **Limitations**
 One thing that the data table fail to accommodate is the area of living. As some areas have low or high financial needs of living, it can have an effect on the statistics and general making decisions in
 classifying the social classes. Data does lack a few information to find solutions for the problem domain. May have to find data that is more fitting.
 
 ## **Refrences**
 
-TTracking the COVID-19 Economy’s Effects on Food, Housing, and Employment Hardships. (n.d.). Center on Budget and Policy Priorities. [link](https://www.cbpp.org/research/poverty-and-inequality/tracking-the-covid-19-economys-effects-on-food-housing-and#:~:text=The%20COVID%2D19%20pandemic%20and,unemployment%20remained%20high%20throughout%202020)
+Tracking the COVID-19 Economy’s Effects on Food, Housing, and Employment Hardships. (n.d.). Center on Budget and Policy Priorities. [link](https://www.cbpp.org/research/poverty-and-inequality/tracking-the-covid-19-economys-effects-on-food-housing-and#:~:text=The%20COVID%2D19%20pandemic%20and,unemployment%20remained%20high%20throughout%202020)
 
 ‌
 Bureau of Labor Statistics. (2022). The Employment Situation - March 2022. In Bureau of Labor Statistics. Bureau Of Labor Statistics. [link](https://www.bls.gov/news.release/pdf/empsit.pdf)
 ‌
 
-<<<<<<< HEAD
-Socio-economic impact of COVID-19 | United Nations Development Programme. (n.d.). UNDP. Retrieved November 1, 2022, from [link](https://www.undp.org/coronavirus/socio-economic-impact-covid-19?utm_source=EN)
-‌
-=======
-https://www.bls.gov/opub/mlr/2020/article/the-impact-of-the-covid-19-pandemic-on-food-price-indexes-and-data-collection.htm
-
-
->>>>>>> 9229dea23d310cf098c3f48c7893970e9000386b
+Scott, M., Dave ;Ransom, Karen ;Reed, Stephen B. ;Sager. (2020, August). The impact of the COVID-19 pandemic on food price indexes and data collection : Monthly Labor Review: U.S. Bureau of Labor Statistics. [link](https://www.bls.gov/opub/mlr/2020/article/the-impact-of-the-covid-19-pandemic-on-food-price-indexes-and-data-collection.htm)
