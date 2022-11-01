@@ -41,25 +41,32 @@ With the appearance of Covid-19, it lead to a drastic hit in the economy as many
 > 4) The number of discouraged workers, a subset of the marginally attached who believed that no jobs were available for them, increased by 119,000 to 485,000 in September.
 
 
-<div align="center">
-
-![Hardship Graph representing households unmet needs](images/HardshipGraph.png)
-</div>
-
 The pandemic impacted everyone but was not distributed evenly to all social classes. In fact, it remained more prevalent in groups such as Blacks, Latinos, and other groups of minority. This is the result due to structual racism shifting the most economic hardships to those of color.
 > Among the major worker groups, the unemployment rate for Hispanics decreased to 3.8 percent in September. The jobless rates for adult men (3.3 percent), adult women (3.1 percent), teenagers (11.4
 percent), Whites (3.1 percent), Blacks (5.8 percent), and Asians (2.5 percent) showed little change over the month
+
+Into a more global setting, resources have increased due to the lack of production stemming from Covid-19.  The article *The impact of the COVID-19 pandemic on food price indexes and data collection* reported by
+[ U.S. Bureau of Labor Statistics](https://www.bls.gov/opub/mlr/2020/article/the-impact-of-the-covid-19-pandemic-on-food-price-indexes-and-data-collection.htm)
+Included that production of meats in Asia fell 9% in 2020. This lead to the declining of U.S. exports meat prices resulting in a drop of 22.5% in meat packaging. However, due to the meat shortage it caused in the increase of meat going up by 16%. As well as sea food experiencing chain disruptions causing in a decrease of production in fish and shellfish by 17.1%. The pandemic caused many businesses to halt and slow down production causing the demand to increase along with the prices.
+
 
 
 ## **Research Questions**
 
 1) How has the the workforce in groups of minority been impacted?
+<br> How does other groups compared in losses compared to mainstream groups? What resources were given to accommodate the standard of equity. It will give a visualization in which groups are being affected the most. 
+
 2) What are the current trends/culture of each standing social classes?
+<br>In addition, what are the characteristics of other groups. What assets have increased and if they have taken a toll in their own finances. What they have earned/lost or maintained throughout the economy collapse. We are hoping to see which traits are involved with each social economic standing.
+
 3) How did Covid-19 affected finance in the long term?
+<br> Current resources such as gases and food have continued to rise and maintained at high levels. How has the global economy been affected in the presences of high demand and shortage of supplies. Along with real estate becoming expensive averaging nearly a 20% increase in rent within the US. 
 
 ## **The Dataset**
 
 The dataset details a lot of information related to finance specifically credit scores. It gives data related to credit score, SSN, occupation, individual base salaries and number of bank accounts a person has. All of this data is helpful to our project because it helps us see how credit scores differ based on socioeconomic status and one way to determine that is through knowing occupation.
+
+## **Expected implications**
 
 ## **Limitations**
 One thing that the data table fail to acomodate is the area of living. As some areas have low or high financial needs of living, it can have an effect on the statistics and general making desicions in
@@ -71,4 +78,6 @@ Tracking the COVID-19 Economy’s Effects on Food, Housing, and Employment Hards
 
 https://www.bls.gov/news.release/pdf/empsit.pdf
 
-Socio-economic impact of COVID-19 | United Nations Development Programme. (n.d.). UNDP. Retrieved October 30, 2022, from https://www.undp.org/coronavirus/socio-economic-impact-covid-19?utm_source=EN
+https://www.bls.gov/opub/mlr/2020/article/the-impact-of-the-covid-19-pandemic-on-food-price-indexes-and-data-collection.htm
+
+
