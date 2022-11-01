@@ -12,11 +12,6 @@
 ## **Abstract**
 <p> The agenda of the project is to understand the differentiating social economic status play a role in the cultural norms in financial commitments. In order to approach this question, we will group the data by annual income showcaseing common characteristics of each catagory of salary. The importance of this data is to outline the different resources used by groups corresponding to their annual income. </p>
 <br>
-<div align="center">
-
-![Credit Score Image](images/experian-good-score-ranges-fico.png)
-</div>
-<br>
 
 ## **Keywords**
 * Credit
@@ -40,13 +35,17 @@ With the appearance of Covid-19, it lead to a drastic hit in the economy as many
 > 3) Among the unemployed, the number of permanent job losers decreased by 173,000 to 1.2 million in September
 > 4) The number of discouraged workers, a subset of the marginally attached who believed that no jobs were available for them, increased by 119,000 to 485,000 in September.
 
+<div align="center">
+
+![Hardship graph](images/HardshipGraph.png)
+</div>
 
 The pandemic impacted everyone but was not distributed evenly to all social classes. In fact, it remained more prevalent in groups such as Blacks, Latinos, and other groups of minority. This is the result due to structual racism shifting the most economic hardships to those of color.
 > Among the major worker groups, the unemployment rate for Hispanics decreased to 3.8 percent in September. The jobless rates for adult men (3.3 percent), adult women (3.1 percent), teenagers (11.4
 percent), Whites (3.1 percent), Blacks (5.8 percent), and Asians (2.5 percent) showed little change over the month
 
 Into a more global setting, resources have increased due to the lack of production stemming from Covid-19.  The article *The impact of the COVID-19 pandemic on food price indexes and data collection* reported by
-[ U.S. Bureau of Labor Statistics](https://www.bls.gov/opub/mlr/2020/article/the-impact-of-the-covid-19-pandemic-on-food-price-indexes-and-data-collection.htm)
+[U.S. Bureau of Labor Statistics](https://www.bls.gov/opub/mlr/2020/article/the-impact-of-the-covid-19-pandemic-on-food-price-indexes-and-data-collection.htm)
 Included that production of meats in Asia fell 9% in 2020. This lead to the declining of U.S. exports meat prices resulting in a drop of 22.5% in meat packaging. However, due to the meat shortage it caused in the increase of meat going up by 16%. As well as sea food experiencing chain disruptions causing in a decrease of production in fish and shellfish by 17.1%. The pandemic caused many businesses to halt and slow down production causing the demand to increase along with the prices.
 
 
@@ -65,6 +64,21 @@ Included that production of meats in Asia fell 9% in 2020. This lead to the decl
 ## **The Dataset**
 
 The dataset details a lot of information related to finance specifically credit scores. It gives data related to credit score, SSN, occupation, individual base salaries and number of bank accounts a person has. All of this data is helpful to our project because it helps us see how credit scores differ based on socioeconomic status and one way to determine that is through knowing occupation.
+<br>
+
+<div align="center">
+
+![Social Class Data Table](images/datatable.png)
+</div>
+<br>
+
+Data Source: 
+[Kraggle](https://www.kaggle.com/datasets/clkmuhammed/creditscoreclassification?resource=download)
+<br>
+
+The data was collected by Rohan Paris, a software developer at Cognizant. The dataset was updated about 4 months ago. The purpose of the set was to identify people’s credit scores with only occupation and minimal bank information given. It was funded through Kaggle. The people/organizations likely to benefit from the data would be Kaggle because there would be more interactions with their site and also people who generally want to learn more about the development of credit scores. We assume that Kaggle has measures that ensure their datasets are reliable and of quality, so yes it’s credible. We obtained the data by searching the kaggle site where the link was provided to us through the proposal instructions. We did credit the source.
+
+
 
 ## **Expected implications**
 
