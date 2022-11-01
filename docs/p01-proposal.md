@@ -62,6 +62,7 @@ The dataset details a lot of information related to finance specifically credit 
 
 ![credit score classification clean data](images/DatasetTable.png)
 
+
 ## **Limitations**
 One thing that the data table fail to accommodate is the area of living. As some areas have low or high financial needs of living, it can have an effect on the statistics and general making decisions in
 classifying the social classes. Data does lack a few information to find solutions for the problem domain. May have to find data that is more fitting.
