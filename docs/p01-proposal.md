@@ -1,4 +1,4 @@
-# <div align="center"> Credit Score Classification </div>
+# <div align="center"> **Credit Score Classification** </div>
 
 #### **Affiliation:** INFO-201: Technical Foundations of Informatics - The Information School - University of Washington
 #### **Authors:** Lesther Dumosmog || Amy Oguejiofor || Nuria Abas Ibrahim
@@ -25,7 +25,7 @@ In the alarming growth in the expenses of resources becoming expensive, we have 
 
 
 ## **Problem Domain**
-With the appearance of Covid-19, it lead to a drastic hit in the economy as many people lack security in their jobs due to companies insuring layoffs. Job growth remaing slow, hours cut, instability in jobs, and overall lost in wages. The Census Bereau released data on the job market at the end of 2021, and it was noted that tens of millions of people lost their jobs ([CBPP](https://www.cbpp.org/research/poverty-and-inequality/tracking-the-covid-19-economys-effects-on-food-housing-and#:~:text=The%20COVID%2D19%20pandemic%20and,unemployment%20remained%20high%20throughout%202020.)). This had resulted in many relief programs being active. Nevertheless, 20 million households did not have enough to eat and 10 million being behind in house payments. The [U.S. Bureau of Labor Statistics](https://www.bls.gov/news.release/pdf/empsit.pdf)] recorded the changes in major worker groups in September:
+With the appearance of Covid-19, it lead to a drastic hit in the economy as many people lack security in their jobs due to companies insuring layoffs. Job growth remains slow, hours cut, instability in jobs, and overall lost in wages. The Census Bureau released data on the job market at the end of 2021, and it was noted that tens of millions of people lost their jobs ([CBPP](https://www.cbpp.org/research/poverty-and-inequality/tracking-the-covid-19-economys-effects-on-food-housing-and#:~:text=The%20COVID%2D19%20pandemic%20and,unemployment%20remained%20high%20throughout%202020.)). This had resulted in many relief programs being active. Nevertheless, 20 million households did not have enough to eat and 10 million being behind in house payments. The [U.S. Bureau of Labor Statistics](https://www.bls.gov/news.release/pdf/empsit.pdf)] recorded the changes in major worker groups in September:
 
 
 <br>
@@ -81,6 +81,11 @@ The data was collected by Rohan Paris, a software developer at Cognizant. The da
 
 
 ## **Expected implications**
+- The toll the COVID-19 pandemic has exacted on the global economy has been significant, with the International Monetary Fund (IMF) estimating that median global GDP dropped by 3.9% from 2019 to 2020, making it the worst economic downturn since the Great Depression. While the global economy was estimated to have recovered in 2021, recovery has been uneven and disparities in vaccine access and coverage could threaten improvement in much of the world.
+
+- Majority of PEPFAR countries, GDP fell in 2020, the year the pandemic emerged, compared to 2019. In 11 countries, the contraction was greater than 10%. While PEPFAR countries experienced less of a median GDP drop than the global economy overall in 2020 (1.9% compared to 3.9%), they generally fared worse than their economic and regional peers.
+
+- While the global economy was estimated to have recovered in 2021, this was not the case in PEPFAR countries. While almost all PEPFAR countries were estimated to have experienced some GDP growth in 2021, the projected growth, at least through 2024, remains below pre-pandemic projections (10-13% below). By contrast, the current projections of global GDP exceed the pre-pandemic projections. In addition, the challenges facing the global economy are likely to continue, particularly in low and middle-income countries, as the strong rebound in 2021 is expected to decelerate in 2022.
 
 ## **Limitations**
 One thing that the data table fail to accommodate is the area of living. As some areas have low or high financial needs of living, it can have an effect on the statistics and general making decisions in
@@ -95,3 +100,6 @@ Bureau of Labor Statistics. (2022). The Employment Situation - March 2022. In Bu
 ‌
 
 Scott, M., Dave ;Ransom, Karen ;Reed, Stephen B. ;Sager. (2020, August). The impact of the COVID-19 pandemic on food price indexes and data collection : Monthly Labor Review: U.S. Bureau of Labor Statistics. [link](https://www.bls.gov/opub/mlr/2020/article/the-impact-of-the-covid-19-pandemic-on-food-price-indexes-and-data-collection.htm)
+
+Oum, S., Kates, J., & Wexler, A. (2022, February 7). Economic Impact of COVID-19 on PEPFAR Countries. KFF. [link](https://www.kff.org/global-health-policy/issue-brief/economic-impact-of-covid-19-on-pepfar-countries/)
+‌
